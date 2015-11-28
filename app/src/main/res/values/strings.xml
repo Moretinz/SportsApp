@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SportsApp</string>
+    <string name="add_string">Add New Sport</string>
+    <string name="delete_string">Delete Sport</string>
+</resources>
